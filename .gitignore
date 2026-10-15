@@ -16,7 +16,7 @@ venv/
 env/
 ENV/
 
-# Environment variables (secrets!)
+# Environment variables — MUST NEVER BE COMMITTED
 .env
 .env.local
 .env.*.local
