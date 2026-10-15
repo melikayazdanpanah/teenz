@@ -1,0 +1,4 @@
+[
+  "tests/test_domain.py::test_compare_offers_empty",
+  "tests/test_domain.py::test_search_offers_pagination"
+]
